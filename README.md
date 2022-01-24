@@ -2,9 +2,9 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIMJINWOO4%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![My Tistory](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9929C8455FEADCE219)](https://lgtmtome.tistory.com)
+[![My Tistory](https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5a539919017800001.png)](https://lgtmtome.tistory.com)
 <!--
-https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5a539919017800001.png
+
 **KIMJINWOO4/KIMJINWOO4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
