@@ -2,7 +2,7 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIMJINWOO4%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![My Tistory](https://w.namu.la/s/6f49370e6e43967aa0a6df9e9f338551bf1885d6bb6becc40e1d6d7701adc4b76ab9548fd44b9322087426df7cc9da25b8fd785829f4c4e2a793f81729d31b4be056a888909dacce319b5ce14beb0cd93cd164d7a62fc3af20a3e0b35dfc2d33)](https://lgtmtome.tistory.com)
+[![My Tistory](https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5a539919017800001.png)](https://lgtmtome.tistory.com)
 <!--
 
 **KIMJINWOO4/KIMJINWOO4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
