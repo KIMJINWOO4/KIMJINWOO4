@@ -10,4 +10,4 @@
 
 **KIMJINWOO4/KIMJINWOO4** is a ✨ _special_ ✨ repository because
 Here are some ideas to get you started:
-- 🔭 I’m current
+- 🔭 I’m curre
