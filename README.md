@@ -7,7 +7,7 @@
   <img src="[https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5a539919017800001.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.basicincomeparty.kr%2Fabout%2Fshin-jihye%2Ftistory-logo-fill_white&psig=AOvVaw1tdw6dyaiuZw4p8kok-zYL&ust=1680419379524000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKj8_pKQiP4CFQAAAAAdAAAAABAI)" height = "100" width="100"  align="left">
 </a>
 <a href="https://velog.io/@keroeroe14" target="_blank">
-  <img src="[https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5a539919017800001.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.basicincomeparty.kr%2Fabout%2Fshin-jihye%2Ftistory-logo-fill_white&psig=AOvVaw1tdw6dyaiuZw4p8kok-zYL&ust=1680419379524000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKj8_pKQiP4CFQAAAAAdAAAAABAI)" height = "100" width="100"  align="left">
+  <img src="https://namu.wiki/jump/%2BG%2BatiSTelH0DtR0CmIYZQQxWRp3Zb1DLZqk%2FsGmjWwKAW9ytqBoditA2lJokE0M5zPsimlXGY7G9t6GHSNqLQ%3D%3D" height = "100" width="100"  align="left">
 </a>
 <!--
 
