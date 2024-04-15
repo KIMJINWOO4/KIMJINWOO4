@@ -14,3 +14,9 @@
 
 <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F14343537%3Fs%3D280%26v%3D4&tbnid=22NWyWxFeNaYOM&vet=12ahUKEwjDiZrrkIj-AhV5mlYBHS5zBWkQMygDegUIARDfAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftistory&docid=tcUT1YhnJsoJvM&w=255&h=255&q=tistory&ved=2ahUKEwjDiZrrkIj-AhV5mlYBHS5zBWkQMygDegUIARDfAQ" height="100" width="100"  align="left">
 </a>
+
+
+## Blog 바로가기
+
+[![Visit Kim-Jinwoo's Blog](https://img.shields.io/badge/Visit-Kim--Jinwoo's%20Blog-blue)](https://ak-47.netlify.app)
+
